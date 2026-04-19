@@ -47,7 +47,7 @@ This project includes:
 ```
 
 
-
+```
 # 🛠️ Tech Stack
 
 - Python  
