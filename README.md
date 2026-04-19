@@ -48,7 +48,6 @@ This project includes:
 
 
 # 🛠️ Tech Stack
-```
 
 - Python  
 - Jupyter Notebook  
@@ -57,7 +56,6 @@ This project includes:
 - Matplotlib  
 - Scikit-learn  
 
----
 
 ## 🚀 Getting Started
 
@@ -65,3 +63,4 @@ This project includes:
 git clone https://github.com/your-username/decision-tree-models.git
 cd decision-tree-models
 jupyter notebook
+```
