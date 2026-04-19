@@ -47,8 +47,8 @@ This project includes:
 ```
 
 
-```
 # 🛠️ Tech Stack
+```
 
 - Python  
 - Jupyter Notebook  
